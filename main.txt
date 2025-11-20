@@ -6,3 +6,4 @@ tornato nel main
 modificato da remoto, altra modifica da remoto
 aggiunta feature
 
+"kncsdcsnp" 
