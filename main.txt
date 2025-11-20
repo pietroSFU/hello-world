@@ -1,10 +1,10 @@
-﻿primo commit testo
-proviamo diff
-dio esiste bla bla
-tornato nel main
+﻿primoaa commit testo
+proviaaamo diff
+dio esaaiste bla bla
+tornaaato nel main
 
-modificato da remoto, altra modifica da remoto
-aggiunta feature
+modifiaacato da remoto, altra modifica da remoto
+aggiunata feature
 
-"fsnpvs" 
-"kncsdcsnp" 
+"fsnpaavs" 
+"kncsaadcsnp" 
