@@ -8,3 +8,4 @@ aggiunta feature
 
 "fsnpvs" 
 "kncsdcsnp" 
+fdsnboscdino
